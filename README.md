@@ -12,6 +12,6 @@ O sistema deve manter o histórico dos clientes que locaram determinado carro.
 O sistema deve manter o histórico de quantos quilometros o cliente rodou com o carro bemm como a quilometragem atual de cada um dos carros. 
 Existem várias unidades da fraquia CARLOCA o sistema deve saber onde o carro foi locado e onde foi devolvido cada veiculo"
 
-No repositório se encontra o SQL de criação das tabelas, bem como os triggers para cumprimento das regras de negócio, além do DER em pdf.
+No repositório se encontra o SQL de criação das tabelas, o SQL insersão de dados, bem como os triggers para cumprimento das regras de negócio, além do DER em pdf.
 
 
